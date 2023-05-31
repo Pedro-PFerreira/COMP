@@ -2,9 +2,9 @@
 
 ## Group members
 
-- Henrique Santos Ferreira (up202007459@edu.fe.up.pt)
-- Pedro Manuel C.A.B Gomes (up202006086@edu.fe.up.pt)
-- Pedro Pereira Ferreira (up202004986@edu.fe.up.pt)
+- [Henrique Santos Ferreira](https://github.com/rique002) (up202007459@edu.fe.up.pt)
+- [Pedro Manuel C.A.B Gomes](https://github.com/Pedro-CAB) (up202006086@edu.fe.up.pt)
+- [Pedro Pereira Ferreira](https://github.com/Pedro-PFerreira/) (up202004986@edu.fe.up.pt)
 
 ## Work Distribution
 
