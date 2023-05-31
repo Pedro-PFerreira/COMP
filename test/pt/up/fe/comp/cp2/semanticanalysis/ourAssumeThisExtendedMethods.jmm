@@ -1,0 +1,13 @@
+import B;
+
+class AssumeExtendedMethods extends B{
+
+    public static void main(String[] args) {
+
+    }
+
+    public int foo() {
+        this.something(1,2,3);
+        return 0;
+    }
+}

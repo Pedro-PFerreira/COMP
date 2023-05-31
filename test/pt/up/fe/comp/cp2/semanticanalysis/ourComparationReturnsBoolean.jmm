@@ -1,0 +1,24 @@
+import A;
+
+class ComparationReturnsBoolean{
+
+    public static void main(String[] args) {
+
+    }
+
+    public int foo() {
+        boolean a;
+        boolean b;
+        a = 3 > 4;
+        b = 1 < 2 && true;
+        if(a){
+            return 0;
+        }
+        if(b){
+            return 1;
+        }
+        else{
+            return 2;
+        }
+    }
+}
